@@ -1,0 +1,3 @@
+NAME                              READY   STATUS    RESTARTS   AGE
+text-processor-76c749b584-fzwhc   1/1     Running   0          4m48s
+text-processor-76c749b584-ws2b5   1/1     Running   0          4m48s
